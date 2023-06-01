@@ -145,5 +145,9 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+    
+    .apresentacao__imagem {
+    width: auto%;
+}
 }
 
