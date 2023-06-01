@@ -143,12 +143,12 @@ body {
         padding: 5%;
     }
     
-    .apresentacao__conteudo__titulo {
-        font-size: 1.55rem;
-    }
-    
     .apresentacao__imagem {
         width: 90%;
     }
 }
 
+@media (max-width: 620px) {
+     .apresentacao__conteudo__titulo {
+        font-size: 1.55rem;
+    }
