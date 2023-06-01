@@ -142,8 +142,11 @@ body {
         width: auto;
     }
     
+    .apresentacao__conteudo__texto {
+        font-size: 1.25rem;
+    
     .apresentacao__imagem {
-    width: 100%;
+    width: 80%;
 }
 }
 
