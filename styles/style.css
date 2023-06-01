@@ -143,11 +143,12 @@ body {
     }
     
     .apresentacao__conteudo__titulo {
-        font-size: 1.50rem;
+        font-size: 1.55rem;
     }
     
     .apresentacao__imagem {
-    width: 80%;
+    width: 100%;
+    padding: 5%;
     }
 }
 
